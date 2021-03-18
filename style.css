@@ -2,7 +2,7 @@ html,
 body {
   background: url(header.jpg) no-repeat center center fixed; 
   background-size: cover;
-  height: 50%;
+  height: 100%;
   width: 50%;
   font-family: 'Montserrat', sans-serif;
 
